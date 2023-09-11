@@ -1,0 +1,174 @@
+.back_f{
+    
+    background-image: url('file:///Users/ivanlucik/Documents/SIte/index.htnl/fot/ff.jpeg') ;
+      background-position-y:-300px;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover; /* Отступ вниз на белом фоне */
+      
+}
+.b{
+    
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.background {
+    background-color: white; /* Белый фон для секции "Товари і послуги" */
+    padding: 200px; /* Отступы внутри секции, если нужны */
+    margin-top: 500px; /* Отступ вниз на белом фоне */
+    height: 800px;
+    
+}
+.background1 {
+    background-color: white; /* Белый фон для секции "Товари і послуги" */
+    padding: 200px; /* Отступы внутри секции, если нужны */
+    margin-top: -60px; /* Отступ вниз на белом фоне */
+    height: 800px;
+    
+}
+
+
+    
+.im {
+    margin-top: 20px;
+    
+    width: 260px;
+    height: auto ;
+    border-radius: 10px; /* Радиус скругления углов (задайте желаемое значение) */
+    
+}
+.imk {
+    margin-top: 20px;
+    width: 350px;
+    height: 200px;
+    border-radius: 10px; /* Радиус скругления углов (задайте желаемое значение) */
+    
+}
+.flex-containe {
+    padding: 50px;
+    margin-top:-50px;
+    display: flex; /* Использование флекс-контейнера для размещения изображений в строку */
+    justify-content: space-between; /* Распределение пространства между изображениями */
+    margin-right: -60px;
+    color: #000000;
+    
+}
+
+.flex-container {
+    display: flex; /* Использование флекс-контейнера для размещения изображений в строку */
+    justify-content: space-between; /* Распределение пространства между изображениями */
+    margin-right: 0px;
+    color: #000000;
+    
+}
+.flex-containerr {
+    display: flex; /* Использование флекс-контейнера для размещения изображений в строку */
+    justify-content: space-between; /* Распределение пространства между изображениями */
+    margin-right: 200px;
+    color: #000000;
+    
+}
+.strikethrough-text {
+  text-decoration: line-through;
+}
+
+body {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.jyr {
+    font-weight: bold;
+}
+.rag {
+    margin-right: 50px;
+}
+
+/* Стили для кнопки */
+.custom-button {
+    background-color: #000000;
+    color: #DCDCDC;
+    border: 5px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.custom-button:hover {
+    background-color: #131313;
+}
+
+/* Стили для секций (для демонстрации) */
+section {
+    height: 100vh; /* 100% высоты окна просмотра */
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+
+section:target {
+    opacity: 1;
+    transform: translateY(0); /* Поднимаем секцию на видимую область экрана */
+}
+
+.rr{
+    margin-top: 20px;
+    display: flex; /* Использование флекс-контейнера для размещения изображений в строку */
+    justify-content: space-between; /* Распределение пространства между изображениями */
+    color: #000000;
+    padding: 0 550px 0;
+}
+.img {
+    margin-top: -80px;
+    margin-left: 300px;
+    width: 350px;
+    height: auto;
+    border-radius: 20px; /* Радиус скругления углов (задайте желаемое значение) */
+    
+}
+
+.last {
+    margin-top: 10px;
+    margin-left: 450px;
+    width: 100px;
+    height: auto;
+    border-radius: 10px;
+    opacity: 0.7;
+}
+.rr{
+    margin-top: 20px;
+    display: flex; /* Использование флекс-контейнера для размещения изображений в строку */
+    justify-content: space-between; /* Распределение пространства между изображениями */
+    color: #000000;
+    padding: 0 550px 0;
+}
+
+.butf{
+    margin-top: 50px;
+    margin-left:460px;
+}
+.but{
+    margin-top: 0px;
+    margin-left:50px;
+}
+.butl{
+    margin-top: 50px;
+    margin-left:400px;
+}
+
+
+.cou{
+    border-radius: 10px;
+    background-image: url('file:///Users/ivanlucik/Documents/SIte/index.htnl/fot/st.jpg');
+     background-position-y:-320px;
+    
+}
+
+.bay{
+
+    background-image: url('file:///Users/ivanlucik/Documents/SIte/index.htnl/fot/st.jpg');
+    background-position-y:-250px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
