@@ -158,14 +158,14 @@ section:target {
 
 .cou{
     border-radius: 10px;
-    background-image: url('file:///Users/ivanlucik/Documents/SIte/index.htnl/fot/st.jpg');
+    background-image: url('fot/st.jpg');
      background-position-y:-320px;
     
 }
 
 .bay{
 
-    background-image: url('file:///Users/ivanlucik/Documents/SIte/index.htnl/fot/st.jpg');
+    background-image: url('fot/st.jpg');
     background-position-y:-250px;
     background-attachment: fixed;
     background-repeat: no-repeat;
